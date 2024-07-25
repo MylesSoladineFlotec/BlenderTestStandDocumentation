@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['4_20conveying_20verbatim_20copies_0',['4 Conveying Verbatim Copies',['../md_packages_2itext_88_80_84_2gnu-agpl-v3_80.html#autotoc_md15',1,'4. Conveying Verbatim Copies'],['../md_packages_2itext_8pdfhtml_85_80_84_2gnu-agpl-v3_80.html#autotoc_md36',1,'4. Conveying Verbatim Copies'],['../md_packages_2itext7_88_80_84_2gnu-agpl-v3_80.html#autotoc_md57',1,'4. Conveying Verbatim Copies'],['../md_packages_2itext7_8bouncy-castle-adapter_88_80_84_2gnu-agpl-v3_80.html#autotoc_md78',1,'4. Conveying Verbatim Copies'],['../md_packages_2itext7_8commons_88_80_84_2gnu-agpl-v3_80.html#autotoc_md99',1,'4. Conveying Verbatim Copies'],['../md_packages_2itext7_8pdfhtml_85_80_84_2gnu-agpl-v3_80.html#autotoc_md120',1,'4. Conveying Verbatim Copies'],['../md_packages_2i_text_sharp_85_85_813_83_2gnu-agpl-v3_80.html#autotoc_md141',1,'4. Conveying Verbatim Copies']]]
+];

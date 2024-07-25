@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['2_20basic_20permissions_0',['2 Basic Permissions',['../md_packages_2itext_88_80_84_2gnu-agpl-v3_80.html#autotoc_md13',1,'2. Basic Permissions'],['../md_packages_2itext_8pdfhtml_85_80_84_2gnu-agpl-v3_80.html#autotoc_md34',1,'2. Basic Permissions'],['../md_packages_2itext7_88_80_84_2gnu-agpl-v3_80.html#autotoc_md55',1,'2. Basic Permissions'],['../md_packages_2itext7_8bouncy-castle-adapter_88_80_84_2gnu-agpl-v3_80.html#autotoc_md76',1,'2. Basic Permissions'],['../md_packages_2itext7_8commons_88_80_84_2gnu-agpl-v3_80.html#autotoc_md97',1,'2. Basic Permissions'],['../md_packages_2itext7_8pdfhtml_85_80_84_2gnu-agpl-v3_80.html#autotoc_md118',1,'2. Basic Permissions'],['../md_packages_2i_text_sharp_85_85_813_83_2gnu-agpl-v3_80.html#autotoc_md139',1,'2. Basic Permissions']]]
+];

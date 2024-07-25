@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['affero_20general_20public_20license_0',['Affero General Public License',['../md_packages_2itext_88_80_84_2gnu-agpl-v3_80.html',1,'GNU Affero General Public License'],['../md_packages_2itext_8pdfhtml_85_80_84_2gnu-agpl-v3_80.html',1,'GNU Affero General Public License'],['../md_packages_2itext7_88_80_84_2gnu-agpl-v3_80.html',1,'GNU Affero General Public License'],['../md_packages_2itext7_8bouncy-castle-adapter_88_80_84_2gnu-agpl-v3_80.html',1,'GNU Affero General Public License'],['../md_packages_2itext7_8commons_88_80_84_2gnu-agpl-v3_80.html',1,'GNU Affero General Public License'],['../md_packages_2itext7_8pdfhtml_85_80_84_2gnu-agpl-v3_80.html',1,'GNU Affero General Public License'],['../md_packages_2i_text_sharp_85_85_813_83_2gnu-agpl-v3_80.html',1,'GNU Affero General Public License']]]
+];

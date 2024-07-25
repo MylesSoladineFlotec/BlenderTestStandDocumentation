@@ -1,0 +1,230 @@
+.sm-dox{
+    background-image: none;
+    background-color: darkgreen;
+}
+
+.sm-dox a {
+    padding-left: 10px;
+    color: white;
+}
+
+
+/* General styles for the main menu */
+#main-menu {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+    background-color: #004d00; /* Dark green background for the main menu */
+}
+
+    /* Style for each menu item */
+    #main-menu > li {
+        position: relative; /* Required for positioning submenu */
+        display: inline-block; /* Align items horizontally */
+    }
+
+        /* Style for each link in the menu */
+        #main-menu > li > a {
+            display: block; /* Make the link fill the list item */
+            padding: 10px 30px; /* Padding for spacing */
+            color: white; /* Light green text color by default */
+            text-decoration: none; /* Remove underline from links */
+            transition: color 0.3s ease, background-color 0.3s ease; /* Smooth transition for color and background changes */
+        }
+
+            /* Hover effect for menu links */
+            #main-menu > li > a:hover {
+                color: #8bc34a; /* Slightly different light green on hover */
+                background-color: #003300; /* Even darker green background on hover */
+            }
+
+    /* Style for submenu items */
+    #main-menu ul {
+        list-style-type: none; /* Remove default list styling */
+        padding: 0; /* Remove default padding */
+        margin: 0; /* Remove default margin */
+        background-color: #004d00; /* Dark green background for submenus */
+        position: absolute; /* Position submenu relative to parent item */
+        top: 100%; /* Position below the parent item */
+        left: 0; /* Align with the left edge of the parent item */
+        display: none; /* Hide submenus by default */
+    }
+
+    /* Show submenu on hover */
+    #main-menu > li:hover > ul {
+        display: block; /* Display submenu on hover */
+    }
+
+    /* Style for each submenu item */
+    #main-menu ul li {
+        position: relative; /* Required for positioning sub-submenu */
+    }
+
+        /* Style for submenu links */
+        #main-menu ul li > a {
+            padding: 10px 15px; /* Padding for spacing */
+            color: darkgreen; /* Light green text color by default */
+            text-decoration: none; /* Remove underline from links */
+            transition: color 0.3s ease, background-color 0.3s ease; /* Smooth transition for color and background changes */
+        }
+
+            /* Hover effect for submenu links */
+            #main-menu ul li > a:hover {
+                color: white; /* Slightly different light green on hover */
+                background-color: #003300; /* Even darker green background on hover */
+            }
+
+
+sm-dox a:hover{
+    background-image:none;
+    background-color: lightgreen;
+}
+
+label{
+    color: white;
+}
+
+
+
+/* Container for the search box */
+#searchBoxPos2 {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically if needed */
+    flex: 1; /* Make sure it takes available space */
+}
+
+/* Container for the search box */
+#MSearchBox {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f9f9f9; /* Light background for modern look */
+    border-radius: 25px; /* Rounded corners */
+    padding: 5px 15px; /* Padding for spacing */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: box-shadow 0.3s ease; /* Smooth shadow transition */
+}
+
+/* Search input field */
+#MSearchField {
+    border: none;
+    outline: none;
+    font-size: 16px; /* Larger text for readability */
+    padding: 10px 15px;
+    border-radius: 25px;
+    background-color: #fff; /* White background for input */
+    width: 100%; /* Full width */
+    box-sizing: border-box; /* Adjust box model */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+}
+
+    /* Placeholder text style */
+    #MSearchField::placeholder {
+        color: #aaa; /* Light gray color for placeholder */
+    }
+
+    /* Hover and focus styles for the input */
+    #MSearchField:focus {
+        background-color: #f0f0f0; /* Light gray background on focus */
+        box-shadow: 0 0 5px rgba(0, 120, 215, 0.3); /* Subtle focus shadow */
+    }
+
+/* Close button style */
+#MSearchClose {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px; /* Space between input and close button */
+    cursor: pointer;
+    transition: opacity 0.3s ease; /* Smooth transition */
+}
+
+/* Hide close button by default and show on hover */
+#MSearchBox:hover #MSearchClose {
+    display: flex; /* Show close button on hover */
+}
+
+/* Close button image */
+#MSearchCloseImg {
+    width: 20px; /* Size of the close icon */
+    height: 20px; /* Size of the close icon */
+}
+
+/* Apply dark green text color and underline to all links */
+#nav-tree a {
+    color: #006400; /* Dark green text color */
+    text-decoration: none; /* Remove underline by default */
+}
+
+/* Style for selected items */
+#nav-tree .selected {
+    background-image: none;
+    background-repeat: repeat-x;
+    background-color: #004d00; /* Darker shade of green for the selected background */
+    color: #ffffff; /* White text color for contrast */
+    text-shadow: none; /* No text shadow for selected items */
+}
+
+    /* Style for arrows in selected items */
+    #nav-tree .selected .arrow {
+        color: #ffffff; /* White color for arrows in selected items */
+    }
+    /* Style for arrows in selected items */
+    #nav-tree .selected a {
+        color: #ffffff; /* White color for arrows in selected items */
+    }
+
+/* Style for arrows in non-selected items */
+#nav-tree .arrow {
+    color: #006400; /* Dark green color for arrows */
+}
+
+/* Child items */
+#nav-tree .children_ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Item styles */
+#nav-tree .item {
+    margin: 0;
+    padding: 0;
+}
+
+/* Label styles */
+#nav-tree .label {
+    font: 12px var(--font-family-nav);
+    color: #006400; /* Dark green color for labels */
+}
+
+/* Style for labels in selected items */
+#nav-tree .selected .label {
+    color: #ffffff; /* White color for labels in selected items */
+}
+
+/* Sync button styles */
+#nav-sync img {
+    opacity: 0.3;
+}
+
+    #nav-sync img:hover {
+        opacity: 0.9;
+    }
+
+a.el{
+    color:darkgreen;
+}
+
+h2.groupHeader {
+    color:darkgreen;
+}
+
+label.main-menu-btn{
+    color:white;
+}
+
+.navpath li.navelem a {
+    color:none;
+    color: darkgreen;
+}

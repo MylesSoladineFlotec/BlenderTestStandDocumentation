@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['your_20new_20programs_0',['Your New Programs',['../md_packages_2itext_88_80_84_2gnu-agpl-v3_80.html#autotoc_md29',1,'How to Apply These Terms to Your New Programs'],['../md_packages_2itext_8pdfhtml_85_80_84_2gnu-agpl-v3_80.html#autotoc_md50',1,'How to Apply These Terms to Your New Programs'],['../md_packages_2itext7_88_80_84_2gnu-agpl-v3_80.html#autotoc_md71',1,'How to Apply These Terms to Your New Programs'],['../md_packages_2itext7_8bouncy-castle-adapter_88_80_84_2gnu-agpl-v3_80.html#autotoc_md92',1,'How to Apply These Terms to Your New Programs'],['../md_packages_2itext7_8commons_88_80_84_2gnu-agpl-v3_80.html#autotoc_md113',1,'How to Apply These Terms to Your New Programs'],['../md_packages_2itext7_8pdfhtml_85_80_84_2gnu-agpl-v3_80.html#autotoc_md134',1,'How to Apply These Terms to Your New Programs'],['../md_packages_2i_text_sharp_85_85_813_83_2gnu-agpl-v3_80.html#autotoc_md155',1,'How to Apply These Terms to Your New Programs']]]
+];
